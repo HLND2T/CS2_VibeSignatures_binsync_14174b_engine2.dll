@@ -1,2 +1,9 @@
 addr = 0x23bf60
 size = 0x8
+name = "unknown_libname_7"
+
+[header]
+name = "unknown_libname_7"
+addr = 0x23bf60
+
+[header.args]
