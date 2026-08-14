@@ -4,3 +4,8 @@ addr = 0x482830
 name = "Plat_EventWriteTransfer"
 type = "long long __fastcall(unsigned long long, unsigned long long)"
 size = 0x8
+
+[0x688ca0]
+addr = 0x688ca0
+name = "unk_180689CA0"
+size = 0x1
