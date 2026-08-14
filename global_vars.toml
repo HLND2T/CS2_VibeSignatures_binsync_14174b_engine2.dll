@@ -1,0 +1,47 @@
+[0x688ca0]
+last_change = 2026-08-14T14:22:55.250049Z
+addr = 0x688ca0
+name = "unk_180689CA0"
+size = 0x1
+
+[0x688cb0]
+last_change = 2026-08-14T14:22:55.250117Z
+addr = 0x688cb0
+name = "unk_180689CB0"
+size = 0x1
+
+[0x688cf8]
+last_change = 2026-08-14T14:22:55.250183Z
+addr = 0x688cf8
+name = "qword_180689CF8"
+size = 0x8
+
+[0x688d60]
+last_change = 2026-08-14T14:22:55.250256Z
+addr = 0x688d60
+name = "unk_180689D60"
+size = 0x1
+
+[0x688d70]
+last_change = 2026-08-14T14:22:55.250285Z
+addr = 0x688d70
+name = "unk_180689D70"
+size = 0x1
+
+[0x688dc0]
+last_change = 2026-08-14T14:22:55.250339Z
+addr = 0x688dc0
+name = "qword_180689DC0"
+size = 0x8
+
+[0x688dc8]
+last_change = 2026-08-14T14:22:55.250362Z
+addr = 0x688dc8
+name = "qword_180689DC8"
+size = 0x8
+
+[0x688dd0]
+last_change = 2026-08-14T14:22:55.250385Z
+addr = 0x688dd0
+name = "qword_180689DD0"
+size = 0x8
