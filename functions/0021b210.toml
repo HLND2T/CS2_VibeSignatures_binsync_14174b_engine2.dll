@@ -1,0 +1,12 @@
+last_change = 2026-08-14T15:51:38.953413Z
+addr = 0x21b210
+size = 0x29c
+name = "CLoopTypeBase_GenerateSecondaryDependencies"
+type = "char"
+
+[header]
+name = "CLoopTypeBase_GenerateSecondaryDependencies"
+addr = 0x21b210
+type = "char"
+
+[header.args]

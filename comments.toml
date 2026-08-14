@@ -4,3 +4,605 @@ addr = 0x23bf60
 func_addr = 0x23bf60
 comment = "Microsoft VisualC v7/14 64bit runtime"
 decompiled = false
+
+[0x33293]
+last_change = 2026-08-14T15:51:37.072840Z
+addr = 0x33293
+func_addr = 0x32cc0
+comment = "Trap to Debugger"
+decompiled = false
+
+[0x45a4b]
+last_change = 2026-08-14T15:51:37.113107Z
+addr = 0x45a4b
+func_addr = 0x458b0
+comment = "Trap to Debugger"
+decompiled = false
+
+[0x45aeb]
+last_change = 2026-08-14T15:51:37.113127Z
+addr = 0x45aeb
+func_addr = 0x458b0
+comment = "Trap to Debugger"
+decompiled = false
+
+[0x45e1b]
+last_change = 2026-08-14T15:51:37.121200Z
+addr = 0x45e1b
+func_addr = 0x45da0
+comment = "Trap to Debugger"
+decompiled = false
+
+[0x45e57]
+last_change = 2026-08-14T15:51:37.121212Z
+addr = 0x45e57
+func_addr = 0x45da0
+comment = "Trap to Debugger"
+decompiled = false
+
+[0x461da]
+last_change = 2026-08-14T15:51:37.129651Z
+addr = 0x461da
+func_addr = 0x460c0
+comment = "Trap to Debugger"
+decompiled = false
+
+[0x4777b]
+last_change = 2026-08-14T15:51:37.146695Z
+addr = 0x4777b
+func_addr = 0x46cb0
+comment = "void (__cdecl *)()"
+decompiled = false
+
+[0x5cd26]
+last_change = 2026-08-14T15:51:37.155043Z
+addr = 0x5cd26
+func_addr = 0x5ca30
+comment = "Trap to Debugger"
+decompiled = false
+
+[0x5f7c0]
+last_change = 2026-08-14T15:51:37.163464Z
+addr = 0x5f7c0
+func_addr = 0x5f740
+comment = "switch 7 cases"
+decompiled = false
+
+[0x5f7de]
+last_change = 2026-08-14T15:51:37.163481Z
+addr = 0x5f7de
+func_addr = 0x5f740
+comment = "switch jump"
+decompiled = false
+
+[0x5f7e0]
+last_change = 2026-08-14T15:51:37.163489Z
+addr = 0x5f7e0
+func_addr = 0x5f740
+comment = "jumptable 00000001800607DE case 1"
+decompiled = false
+
+[0x5f7f9]
+last_change = 2026-08-14T15:51:37.163494Z
+addr = 0x5f7f9
+func_addr = 0x5f740
+comment = "jumptable 00000001800607DE case 2"
+decompiled = false
+
+[0x5f988]
+last_change = 2026-08-14T15:51:37.163499Z
+addr = 0x5f988
+func_addr = 0x5f740
+comment = "jumptable 00000001800607DE case 3"
+decompiled = false
+
+[0x5f9da]
+last_change = 2026-08-14T15:51:37.163503Z
+addr = 0x5f9da
+func_addr = 0x5f740
+comment = "jumptable 00000001800607DE case 4"
+decompiled = false
+
+[0x5f9f3]
+last_change = 2026-08-14T15:51:37.163507Z
+addr = 0x5f9f3
+func_addr = 0x5f740
+comment = "jumptable 00000001800607DE case 5"
+decompiled = false
+
+[0x5fa1e]
+last_change = 2026-08-14T15:51:37.163511Z
+addr = 0x5fa1e
+func_addr = 0x5f740
+comment = "jumptable 00000001800607DE case 6"
+decompiled = false
+
+[0x5fa58]
+last_change = 2026-08-14T15:51:37.163515Z
+addr = 0x5fa58
+func_addr = 0x5f740
+comment = "jumptable 00000001800607DE case 7"
+decompiled = false
+
+[0x5fc77]
+last_change = 2026-08-14T15:51:37.163519Z
+addr = 0x5fc77
+func_addr = 0x5f740
+comment = "jumptable 00000001800607DE default case"
+decompiled = false
+
+[0x5ff0c]
+last_change = 2026-08-14T15:51:37.163523Z
+addr = 0x5ff0c
+func_addr = 0x5f740
+comment = "jump table for switch statement"
+decompiled = false
+
+[0x63e17]
+last_change = 2026-08-14T15:51:37.188523Z
+addr = 0x63e17
+func_addr = 0x638c0
+comment = "Trap to Debugger"
+decompiled = false
+
+[0x9fbaa]
+last_change = 2026-08-14T15:51:37.646090Z
+addr = 0x9fbaa
+func_addr = 0x9fb70
+comment = "Trap to Debugger"
+decompiled = false
+
+[0x9fbb8]
+last_change = 2026-08-14T15:51:37.646152Z
+addr = 0x9fbb8
+func_addr = 0x9fb70
+comment = "Trap to Debugger"
+decompiled = false
+
+[0xae631]
+last_change = 2026-08-14T15:51:37.851555Z
+addr = 0xae631
+func_addr = 0xae550
+comment = "Trap to Debugger"
+decompiled = false
+
+[0xb357c]
+last_change = 2026-08-14T15:51:37.935661Z
+addr = 0xb357c
+func_addr = 0xb34a0
+comment = "this"
+decompiled = false
+
+[0x1c2c69]
+last_change = 2026-08-14T15:51:38.360921Z
+addr = 0x1c2c69
+func_addr = 0x1c2850
+comment = "Trap to Debugger"
+decompiled = false
+
+[0x1d09da]
+last_change = 2026-08-14T15:51:38.409914Z
+addr = 0x1d09da
+func_addr = 0x1d0030
+comment = "void (__cdecl *)()"
+decompiled = false
+
+[0x1d0a31]
+last_change = 2026-08-14T15:51:38.409984Z
+addr = 0x1d0a31
+func_addr = 0x1d0030
+comment = "void (__cdecl *)()"
+decompiled = false
+
+[0x1d0a88]
+last_change = 2026-08-14T15:51:38.410005Z
+addr = 0x1d0a88
+func_addr = 0x1d0030
+comment = "void (__cdecl *)()"
+decompiled = false
+
+[0x1d0adf]
+last_change = 2026-08-14T15:51:38.410021Z
+addr = 0x1d0adf
+func_addr = 0x1d0030
+comment = "void (__cdecl *)()"
+decompiled = false
+
+[0x1d0b36]
+last_change = 2026-08-14T15:51:38.410035Z
+addr = 0x1d0b36
+func_addr = 0x1d0030
+comment = "void (__cdecl *)()"
+decompiled = false
+
+[0x1d0b8d]
+last_change = 2026-08-14T15:51:38.410050Z
+addr = 0x1d0b8d
+func_addr = 0x1d0030
+comment = "void (__cdecl *)()"
+decompiled = false
+
+[0x1d0be4]
+last_change = 2026-08-14T15:51:38.410064Z
+addr = 0x1d0be4
+func_addr = 0x1d0030
+comment = "void (__cdecl *)()"
+decompiled = false
+
+[0x1d0c3b]
+last_change = 2026-08-14T15:51:38.410078Z
+addr = 0x1d0c3b
+func_addr = 0x1d0030
+comment = "void (__cdecl *)()"
+decompiled = false
+
+[0x1d0c92]
+last_change = 2026-08-14T15:51:38.410093Z
+addr = 0x1d0c92
+func_addr = 0x1d0030
+comment = "void (__cdecl *)()"
+decompiled = false
+
+[0x1d0ce9]
+last_change = 2026-08-14T15:51:38.410107Z
+addr = 0x1d0ce9
+func_addr = 0x1d0030
+comment = "void (__cdecl *)()"
+decompiled = false
+
+[0x1d0d40]
+last_change = 2026-08-14T15:51:38.410121Z
+addr = 0x1d0d40
+func_addr = 0x1d0030
+comment = "void (__cdecl *)()"
+decompiled = false
+
+[0x1d0d97]
+last_change = 2026-08-14T15:51:38.410135Z
+addr = 0x1d0d97
+func_addr = 0x1d0030
+comment = "void (__cdecl *)()"
+decompiled = false
+
+[0x1dce28]
+last_change = 2026-08-14T15:51:38.687845Z
+addr = 0x1dce28
+func_addr = 0x1dc530
+comment = "void (__cdecl *)()"
+decompiled = false
+
+[0x1dce7f]
+last_change = 2026-08-14T15:51:38.687903Z
+addr = 0x1dce7f
+func_addr = 0x1dc530
+comment = "void (__cdecl *)()"
+decompiled = false
+
+[0x1dced6]
+last_change = 2026-08-14T15:51:38.687921Z
+addr = 0x1dced6
+func_addr = 0x1dc530
+comment = "void (__cdecl *)()"
+decompiled = false
+
+[0x1dcf2d]
+last_change = 2026-08-14T15:51:38.687938Z
+addr = 0x1dcf2d
+func_addr = 0x1dc530
+comment = "void (__cdecl *)()"
+decompiled = false
+
+[0x1dcf84]
+last_change = 2026-08-14T15:51:38.687955Z
+addr = 0x1dcf84
+func_addr = 0x1dc530
+comment = "void (__cdecl *)()"
+decompiled = false
+
+[0x1dcfdb]
+last_change = 2026-08-14T15:51:38.687976Z
+addr = 0x1dcfdb
+func_addr = 0x1dc530
+comment = "void (__cdecl *)()"
+decompiled = false
+
+[0x1dd032]
+last_change = 2026-08-14T15:51:38.687993Z
+addr = 0x1dd032
+func_addr = 0x1dc530
+comment = "void (__cdecl *)()"
+decompiled = false
+
+[0x1dd089]
+last_change = 2026-08-14T15:51:38.688009Z
+addr = 0x1dd089
+func_addr = 0x1dc530
+comment = "void (__cdecl *)()"
+decompiled = false
+
+[0x1dd0e0]
+last_change = 2026-08-14T15:51:38.688026Z
+addr = 0x1dd0e0
+func_addr = 0x1dc530
+comment = "void (__cdecl *)()"
+decompiled = false
+
+[0x1dd137]
+last_change = 2026-08-14T15:51:38.688042Z
+addr = 0x1dd137
+func_addr = 0x1dc530
+comment = "void (__cdecl *)()"
+decompiled = false
+
+[0x1dd18e]
+last_change = 2026-08-14T15:51:38.688059Z
+addr = 0x1dd18e
+func_addr = 0x1dc530
+comment = "void (__cdecl *)()"
+decompiled = false
+
+[0x1f1e00]
+last_change = 2026-08-14T15:51:38.818933Z
+addr = 0x1f1e00
+func_addr = 0x1f1ad0
+comment = "void (__cdecl *)()"
+decompiled = false
+
+[0x202f7f]
+last_change = 2026-08-14T15:51:38.835314Z
+addr = 0x202f7f
+func_addr = 0x202f40
+comment = "Trap to Debugger"
+decompiled = false
+
+[0x20ea45]
+last_change = 2026-08-14T15:51:38.860087Z
+addr = 0x20ea45
+func_addr = 0x20ea00
+comment = "Trap to Debugger"
+decompiled = false
+
+[0x20ec41]
+last_change = 2026-08-14T15:51:38.876594Z
+addr = 0x20ec41
+func_addr = 0x20ebb0
+comment = "Trap to Debugger"
+decompiled = false
+
+[0x20ec72]
+last_change = 2026-08-14T15:51:38.876650Z
+addr = 0x20ec72
+func_addr = 0x20ebb0
+comment = "Trap to Debugger"
+decompiled = false
+
+[0x20ee90]
+last_change = 2026-08-14T15:51:38.876670Z
+addr = 0x20ee90
+func_addr = 0x20ebb0
+comment = "Trap to Debugger"
+decompiled = false
+
+[0x20f0ac]
+last_change = 2026-08-14T15:51:38.893387Z
+addr = 0x20f0ac
+func_addr = 0x20f050
+comment = "Trap to Debugger"
+decompiled = false
+
+[0x21075a]
+last_change = 2026-08-14T15:51:38.918515Z
+addr = 0x21075a
+func_addr = 0x210080
+comment = "th32ProcessID"
+decompiled = false
+
+[0x21075c]
+last_change = 2026-08-14T15:51:38.918577Z
+addr = 0x21075c
+func_addr = 0x210080
+comment = "dwFlags"
+decompiled = false
+
+[0x210786]
+last_change = 2026-08-14T15:51:38.918597Z
+addr = 0x210786
+func_addr = 0x210080
+comment = "lppe"
+decompiled = false
+
+[0x210797]
+last_change = 2026-08-14T15:51:38.918617Z
+addr = 0x210797
+func_addr = 0x210080
+comment = "hSnapshot"
+decompiled = false
+
+[0x2107c8]
+last_change = 2026-08-14T15:51:38.918636Z
+addr = 0x2107c8
+func_addr = 0x210080
+comment = "dwProcessId"
+decompiled = false
+
+[0x2107cf]
+last_change = 2026-08-14T15:51:38.918655Z
+addr = 0x2107cf
+func_addr = 0x210080
+comment = "bInheritHandle"
+decompiled = false
+
+[0x2107d1]
+last_change = 2026-08-14T15:51:38.918674Z
+addr = 0x2107d1
+func_addr = 0x210080
+comment = "dwDesiredAccess"
+decompiled = false
+
+[0x2107e4]
+last_change = 2026-08-14T15:51:38.918693Z
+addr = 0x2107e4
+func_addr = 0x210080
+comment = "nSize"
+decompiled = false
+
+[0x2107ea]
+last_change = 2026-08-14T15:51:38.918712Z
+addr = 0x2107ea
+func_addr = 0x210080
+comment = "lpFilename"
+decompiled = false
+
+[0x2107f1]
+last_change = 2026-08-14T15:51:38.918731Z
+addr = 0x2107f1
+func_addr = 0x210080
+comment = "hModule"
+decompiled = false
+
+[0x2107f3]
+last_change = 2026-08-14T15:51:38.918750Z
+addr = 0x2107f3
+func_addr = 0x210080
+comment = "hProcess"
+decompiled = false
+
+[0x2107fc]
+last_change = 2026-08-14T15:51:38.918769Z
+addr = 0x2107fc
+func_addr = 0x210080
+comment = "hObject"
+decompiled = false
+
+[0x210809]
+last_change = 2026-08-14T15:51:38.918788Z
+addr = 0x210809
+func_addr = 0x210080
+comment = "lppe"
+decompiled = false
+
+[0x210810]
+last_change = 2026-08-14T15:51:38.918807Z
+addr = 0x210810
+func_addr = 0x210080
+comment = "hSnapshot"
+decompiled = false
+
+[0x21081d]
+last_change = 2026-08-14T15:51:38.918826Z
+addr = 0x21081d
+func_addr = 0x210080
+comment = "hObject"
+decompiled = false
+
+[0x210831]
+last_change = 2026-08-14T15:51:38.918844Z
+addr = 0x210831
+func_addr = 0x210080
+comment = "hObject"
+decompiled = false
+
+[0x210874]
+last_change = 2026-08-14T15:51:38.918863Z
+addr = 0x210874
+func_addr = 0x210080
+comment = "lpCommandLine"
+decompiled = false
+
+[0x210881]
+last_change = 2026-08-14T15:51:38.918882Z
+addr = 0x210881
+func_addr = 0x210080
+comment = "lpApplicationName"
+decompiled = false
+
+[0x21088d]
+last_change = 2026-08-14T15:51:38.918901Z
+addr = 0x21088d
+func_addr = 0x210080
+comment = "lpThreadAttributes"
+decompiled = false
+
+[0x210895]
+last_change = 2026-08-14T15:51:38.918920Z
+addr = 0x210895
+func_addr = 0x210080
+comment = "lpProcessAttributes"
+decompiled = false
+
+[0x210898]
+last_change = 2026-08-14T15:51:38.918939Z
+addr = 0x210898
+func_addr = 0x210080
+comment = "lpProcessInformation"
+decompiled = false
+
+[0x2108a1]
+last_change = 2026-08-14T15:51:38.918957Z
+addr = 0x2108a1
+func_addr = 0x210080
+comment = "lpStartupInfo"
+decompiled = false
+
+[0x2108a6]
+last_change = 2026-08-14T15:51:38.918976Z
+addr = 0x2108a6
+func_addr = 0x210080
+comment = "lpCurrentDirectory"
+decompiled = false
+
+[0x2108ab]
+last_change = 2026-08-14T15:51:38.918995Z
+addr = 0x2108ab
+func_addr = 0x210080
+comment = "lpEnvironment"
+decompiled = false
+
+[0x2108b0]
+last_change = 2026-08-14T15:51:38.919014Z
+addr = 0x2108b0
+func_addr = 0x210080
+comment = "dwCreationFlags"
+decompiled = false
+
+[0x2108b4]
+last_change = 2026-08-14T15:51:38.919033Z
+addr = 0x2108b4
+func_addr = 0x210080
+comment = "bInheritHandles"
+decompiled = false
+
+[0x2108e3]
+last_change = 2026-08-14T15:51:38.919069Z
+addr = 0x2108e3
+func_addr = 0x210080
+comment = "hObject"
+decompiled = false
+
+[0x2108ee]
+last_change = 2026-08-14T15:51:38.919088Z
+addr = 0x2108ee
+func_addr = 0x210080
+comment = "hObject"
+decompiled = false
+
+[0x21b1d9]
+last_change = 2026-08-14T15:51:38.944739Z
+addr = 0x21b1d9
+func_addr = 0x21af80
+comment = "Trap to Debugger"
+decompiled = false
+
+[0x21b498]
+last_change = 2026-08-14T15:51:38.953413Z
+addr = 0x21b498
+func_addr = 0x21b210
+comment = "Trap to Debugger"
+decompiled = false
+
+[0x3fd552]
+last_change = 2026-08-14T15:51:39.110700Z
+addr = 0x3fd552
+func_addr = 0x3fd530
+comment = "Trap to Debugger"
+decompiled = false

@@ -1,0 +1,12 @@
+last_change = 2026-08-14T15:51:35.099862Z
+addr = 0x1de440
+size = 0x9f
+name = "CNetworkServerService_OnClientPollNetworking"
+type = "void"
+
+[header]
+name = "CNetworkServerService_OnClientPollNetworking"
+addr = 0x1de440
+type = "void"
+
+[header.args]

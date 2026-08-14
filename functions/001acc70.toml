@@ -1,0 +1,12 @@
+last_change = 2026-08-14T15:51:35.099720Z
+addr = 0x1acc70
+size = 0x131
+name = "CGameResourceService_BuildResourceManifest"
+type = "void"
+
+[header]
+name = "CGameResourceService_BuildResourceManifest"
+addr = 0x1acc70
+type = "void"
+
+[header.args]

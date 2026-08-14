@@ -1,0 +1,12 @@
+last_change = 2026-08-14T15:51:35.099647Z
+addr = 0xb39c0
+size = 0xc8
+name = "CNetworkGameServerBase_ServerPollNetworking"
+type = "void"
+
+[header]
+name = "CNetworkGameServerBase_ServerPollNetworking"
+addr = 0xb39c0
+type = "void"
+
+[header.args]

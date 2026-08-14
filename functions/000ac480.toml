@@ -1,0 +1,12 @@
+last_change = 2026-08-14T15:51:35.099614Z
+addr = 0xac480
+size = 0x23e
+name = "CNetworkGameServerBase_RegisterLoadingSpawnGroups"
+type = "void"
+
+[header]
+name = "CNetworkGameServerBase_RegisterLoadingSpawnGroups"
+addr = 0xac480
+type = "void"
+
+[header.args]

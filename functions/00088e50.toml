@@ -1,0 +1,12 @@
+last_change = 2026-08-14T15:51:35.099523Z
+addr = 0x88e50
+size = 0x216
+name = "CNetworkGameClientBase_FinishChangeLevel"
+type = "long long"
+
+[header]
+name = "CNetworkGameClientBase_FinishChangeLevel"
+addr = 0x88e50
+type = "long long"
+
+[header.args]

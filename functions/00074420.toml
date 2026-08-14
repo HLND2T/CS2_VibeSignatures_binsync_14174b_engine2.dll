@@ -1,0 +1,12 @@
+last_change = 2026-08-14T15:51:35.099498Z
+addr = 0x74420
+size = 0x24
+name = "CEngineClient_ExecuteClientCmd"
+type = "long long"
+
+[header]
+name = "CEngineClient_ExecuteClientCmd"
+addr = 0x74420
+type = "long long"
+
+[header.args]

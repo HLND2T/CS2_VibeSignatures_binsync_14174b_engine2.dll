@@ -1,0 +1,12 @@
+last_change = 2026-08-14T15:51:35.099612Z
+addr = 0xaba00
+size = 0x48c
+name = "CNetworkGameServerBase_Init"
+type = "long long"
+
+[header]
+name = "CNetworkGameServerBase_Init"
+addr = 0xaba00
+type = "long long"
+
+[header.args]

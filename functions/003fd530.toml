@@ -1,0 +1,12 @@
+last_change = 2026-08-14T15:51:39.110700Z
+addr = 0x3fd530
+size = 0x1bc
+name = "ConnectInterfaces"
+type = "long long"
+
+[header]
+name = "ConnectInterfaces"
+addr = 0x3fd530
+type = "long long"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-08-14T15:51:35.099430Z
+addr = 0x28260
+size = 0x74a
+name = "CDemoPlayer_SkipToTick"
+type = "void"
+
+[header]
+name = "CDemoPlayer_SkipToTick"
+addr = 0x28260
+type = "void"
+
+[header.args]

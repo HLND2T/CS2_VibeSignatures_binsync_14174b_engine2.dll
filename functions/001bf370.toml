@@ -1,0 +1,12 @@
+last_change = 2026-08-14T15:51:35.099739Z
+addr = 0x1bf370
+size = 0x584
+name = "CInputService_HandleInputEvent"
+type = "long long"
+
+[header]
+name = "CInputService_HandleInputEvent"
+addr = 0x1bf370
+type = "long long"
+
+[header.args]

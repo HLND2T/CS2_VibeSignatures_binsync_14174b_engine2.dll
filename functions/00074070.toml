@@ -1,0 +1,12 @@
+last_change = 2026-08-14T15:51:35.099491Z
+addr = 0x74070
+size = 0x8
+name = "CEngineServer_GetFrameTimeAmnesty"
+type = "const char *"
+
+[header]
+name = "CEngineServer_GetFrameTimeAmnesty"
+addr = 0x74070
+type = "const char *"
+
+[header.args]

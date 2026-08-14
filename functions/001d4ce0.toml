@@ -1,0 +1,12 @@
+last_change = 2026-08-14T15:51:35.099840Z
+addr = 0x1d4ce0
+size = 0x3c
+name = "CNetworkClientService_IsConnecting"
+type = "bool"
+
+[header]
+name = "CNetworkClientService_IsConnecting"
+addr = 0x1d4ce0
+type = "bool"
+
+[header.args]
