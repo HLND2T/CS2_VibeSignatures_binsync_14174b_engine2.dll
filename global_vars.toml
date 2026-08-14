@@ -1,0 +1,6 @@
+[0x482830]
+last_change = 2026-08-14T15:06:42.195755Z
+addr = 0x482830
+name = "Plat_EventWriteTransfer"
+type = "long long __fastcall(unsigned long long, unsigned long long)"
+size = 0x8
