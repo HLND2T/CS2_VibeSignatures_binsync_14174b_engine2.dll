@@ -1,0 +1,10 @@
+last_change = 2026-08-14T14:22:53.185492Z
+addr = 0xb4f90
+size = 0xc2
+name = "sub_1800B5F90"
+
+[header]
+name = "sub_1800B5F90"
+addr = 0xb4f90
+
+[header.args]
