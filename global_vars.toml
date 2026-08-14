@@ -19,3 +19,8 @@ size = 0x1
 addr = 0x688cf8
 name = "qword_180689CF8"
 size = 0x8
+
+[0x688d60]
+addr = 0x688d60
+name = "unk_180689D60"
+size = 0x1
