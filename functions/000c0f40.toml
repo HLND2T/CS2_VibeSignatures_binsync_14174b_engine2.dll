@@ -1,0 +1,10 @@
+last_change = 2026-08-14T15:51:35.099668Z
+addr = 0xc0f40
+size = 0x452
+name = "CServerSideClientBase_dtor"
+
+[header]
+name = "CServerSideClientBase_dtor"
+addr = 0xc0f40
+
+[header.args]
