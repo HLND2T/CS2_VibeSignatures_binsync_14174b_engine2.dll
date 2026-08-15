@@ -1,0 +1,10 @@
+last_change = 2026-08-14T15:51:35.099663Z
+addr = 0xbafa0
+size = 0xd4
+name = "CServerSideClient_IsHearingClient"
+
+[header]
+name = "CServerSideClient_IsHearingClient"
+addr = 0xbafa0
+
+[header.args]
