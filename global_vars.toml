@@ -484,3 +484,8 @@ size = 0x1
 addr = 0x687dc0
 name = "g_pSource2EngineToClient"
 size = 0x8
+
+[0x687dc8]
+addr = 0x687dc8
+name = "g_pSource2EngineToServer"
+size = 0x8
