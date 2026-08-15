@@ -99,3 +99,8 @@ size = 0x1
 addr = 0x687b48
 name = "g_pAnimationSystem"
 size = 0x8
+
+[0x687b50]
+addr = 0x687b50
+name = "g_pAnimationSystemUtils"
+size = 0x1
