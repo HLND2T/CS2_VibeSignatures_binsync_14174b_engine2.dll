@@ -1,2 +1,9 @@
 addr = 0x5ca30
 size = 0x489
+name = "CNetworkClientSpawnGroupCreatePrerequisites_GetStatus"
+
+[header]
+name = "CNetworkClientSpawnGroupCreatePrerequisites_GetStatus"
+addr = 0x5ca30
+
+[header.args]
