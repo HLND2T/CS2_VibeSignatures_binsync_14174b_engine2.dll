@@ -69,3 +69,8 @@ size = 0x1
 addr = 0x687b18
 name = "g_pProcessUtils"
 size = 0x1
+
+[0x687b20]
+addr = 0x687b20
+name = "g_pHelpSystem"
+size = 0x1
