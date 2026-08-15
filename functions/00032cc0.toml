@@ -1,2 +1,9 @@
 addr = 0x32cc0
 size = 0x698
+name = "CDemoPlayer_StartPlayback"
+
+[header]
+name = "CDemoPlayer_StartPlayback"
+addr = 0x32cc0
+
+[header.args]
