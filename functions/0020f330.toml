@@ -1,0 +1,10 @@
+last_change = 2026-08-14T15:51:35.099902Z
+addr = 0x20f330
+size = 0x24
+name = "CEngineServiceMgr_GetActiveLoopClientServerMode"
+
+[header]
+name = "CEngineServiceMgr_GetActiveLoopClientServerMode"
+addr = 0x20f330
+
+[header.args]
