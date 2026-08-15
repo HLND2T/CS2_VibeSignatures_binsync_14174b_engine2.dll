@@ -614,3 +614,8 @@ size = 0x8
 addr = 0x910864
 name = "g_nSteamAppId"
 size = 0x4
+
+[0x910888]
+addr = 0x910888
+name = "g_nBreakpadAppId"
+size = 0x4
