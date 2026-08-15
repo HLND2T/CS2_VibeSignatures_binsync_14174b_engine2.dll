@@ -435,3 +435,9 @@ addr = 0x210874
 func_addr = 0x210080
 comment = "lpCommandLine"
 decompiled = false
+
+[0x210881]
+addr = 0x210881
+func_addr = 0x210080
+comment = "lpApplicationName"
+decompiled = false
