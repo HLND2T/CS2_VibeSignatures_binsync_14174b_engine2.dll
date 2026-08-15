@@ -477,3 +477,9 @@ addr = 0x2108ab
 func_addr = 0x210080
 comment = "lpEnvironment"
 decompiled = false
+
+[0x2108b0]
+addr = 0x2108b0
+func_addr = 0x210080
+comment = "dwCreationFlags"
+decompiled = false
