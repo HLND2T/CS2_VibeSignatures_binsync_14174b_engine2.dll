@@ -429,3 +429,9 @@ addr = 0x210831
 func_addr = 0x210080
 comment = "hObject"
 decompiled = false
+
+[0x210874]
+addr = 0x210874
+func_addr = 0x210080
+comment = "lpCommandLine"
+decompiled = false
