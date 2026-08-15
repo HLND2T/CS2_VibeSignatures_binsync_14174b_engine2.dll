@@ -1,0 +1,10 @@
+last_change = 2026-08-14T15:51:35.099919Z
+addr = 0x21c670
+size = 0x1ee
+name = "SetFrameTimeAmnesty"
+
+[header]
+name = "SetFrameTimeAmnesty"
+addr = 0x21c670
+
+[header.args]
