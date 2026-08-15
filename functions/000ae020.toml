@@ -1,0 +1,10 @@
+last_change = 2026-08-14T15:51:35.099623Z
+addr = 0xae020
+size = 0x3f3
+name = "CNetworkGameServerBase_BroadcastPrintf"
+
+[header]
+name = "CNetworkGameServerBase_BroadcastPrintf"
+addr = 0xae020
+
+[header.args]
