@@ -375,3 +375,9 @@ addr = 0x2107d1
 func_addr = 0x210080
 comment = "dwDesiredAccess"
 decompiled = false
+
+[0x2107e4]
+addr = 0x2107e4
+func_addr = 0x210080
+comment = "nSize"
+decompiled = false
