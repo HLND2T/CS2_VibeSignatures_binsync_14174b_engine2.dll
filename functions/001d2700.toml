@@ -1,0 +1,10 @@
+last_change = 2026-08-14T15:51:35.099793Z
+addr = 0x1d2700
+size = 0x15d
+name = "CNetworkClientService_OnFrameBoundary"
+
+[header]
+name = "CNetworkClientService_OnFrameBoundary"
+addr = 0x1d2700
+
+[header.args]
