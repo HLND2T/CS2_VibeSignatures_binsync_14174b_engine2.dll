@@ -393,3 +393,9 @@ addr = 0x2107f1
 func_addr = 0x210080
 comment = "hModule"
 decompiled = false
+
+[0x2107f3]
+addr = 0x2107f3
+func_addr = 0x210080
+comment = "hProcess"
+decompiled = false
