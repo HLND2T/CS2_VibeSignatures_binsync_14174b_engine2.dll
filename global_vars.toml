@@ -424,3 +424,8 @@ size = 0x1
 addr = 0x687d58
 name = "g_pVPhysics2"
 size = 0x8
+
+[0x687d60]
+addr = 0x687d60
+name = "g_pExportSystem"
+size = 0x1
