@@ -441,3 +441,9 @@ addr = 0x210881
 func_addr = 0x210080
 comment = "lpApplicationName"
 decompiled = false
+
+[0x21088d]
+addr = 0x21088d
+func_addr = 0x210080
+comment = "lpThreadAttributes"
+decompiled = false
