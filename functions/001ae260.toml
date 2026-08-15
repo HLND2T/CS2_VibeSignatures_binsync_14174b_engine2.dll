@@ -1,0 +1,10 @@
+last_change = 2026-08-14T15:51:35.099735Z
+addr = 0x1ae260
+size = 0x99
+name = "CGameResourceService_DescribeContents"
+
+[header]
+name = "CGameResourceService_DescribeContents"
+addr = 0x1ae260
+
+[header.args]
