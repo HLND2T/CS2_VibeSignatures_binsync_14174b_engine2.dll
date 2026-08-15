@@ -319,3 +319,8 @@ size = 0x1
 addr = 0x687cb0
 name = "g_pMeshUtils"
 size = 0x1
+
+[0x687cb8]
+addr = 0x687cb8
+name = "g_pSceneSystem"
+size = 0x8
