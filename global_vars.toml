@@ -254,3 +254,8 @@ size = 0x8
 addr = 0x687c40
 name = "g_pPanoramaUIClient"
 size = 0x8
+
+[0x687c48]
+addr = 0x687c48
+name = "g_pPanoramaTextServices"
+size = 0x1
