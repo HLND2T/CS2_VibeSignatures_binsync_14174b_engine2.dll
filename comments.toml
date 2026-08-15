@@ -399,3 +399,9 @@ addr = 0x2107f3
 func_addr = 0x210080
 comment = "hProcess"
 decompiled = false
+
+[0x2107fc]
+addr = 0x2107fc
+func_addr = 0x210080
+comment = "hObject"
+decompiled = false
