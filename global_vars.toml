@@ -474,3 +474,8 @@ size = 0x8
 addr = 0x687db0
 name = "g_pSource2Host"
 size = 0x8
+
+[0x687db8]
+addr = 0x687db8
+name = "g_pSource2ModTools"
+size = 0x1
