@@ -189,3 +189,8 @@ size = 0x8
 addr = 0x687bd8
 name = "g_pResourceCompilerSystem"
 size = 0x1
+
+[0x687be0]
+addr = 0x687be0
+name = "g_pResourceSystem"
+size = 0x8
