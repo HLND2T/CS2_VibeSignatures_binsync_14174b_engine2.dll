@@ -74,3 +74,8 @@ size = 0x1
 addr = 0x687b20
 name = "g_pHelpSystem"
 size = 0x1
+
+[0x687b28]
+addr = 0x687b28
+name = "g_pToolSceneNodeFactory"
+size = 0x1
