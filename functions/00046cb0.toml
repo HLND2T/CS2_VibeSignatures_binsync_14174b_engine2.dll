@@ -1,2 +1,9 @@
 addr = 0x46cb0
 size = 0xaef
+name = "CNetworkGameClient_ProcessPacketEntitiesInternal"
+
+[header]
+name = "CNetworkGameClient_ProcessPacketEntitiesInternal"
+addr = 0x46cb0
+
+[header.args]
