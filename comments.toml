@@ -417,3 +417,9 @@ addr = 0x210810
 func_addr = 0x210080
 comment = "hSnapshot"
 decompiled = false
+
+[0x21081d]
+addr = 0x21081d
+func_addr = 0x210080
+comment = "hObject"
+decompiled = false
