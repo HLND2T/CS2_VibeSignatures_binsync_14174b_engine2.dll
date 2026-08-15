@@ -27,3 +27,9 @@ addr = 0x45e1b
 func_addr = 0x45da0
 comment = "Trap to Debugger"
 decompiled = false
+
+[0x45e57]
+addr = 0x45e57
+func_addr = 0x45da0
+comment = "Trap to Debugger"
+decompiled = false
