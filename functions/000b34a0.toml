@@ -1,2 +1,9 @@
 addr = 0xb34a0
 size = 0x291
+name = "CNetworkGameServerBase_BroadcastEntityVoice"
+
+[header]
+name = "CNetworkGameServerBase_BroadcastEntityVoice"
+addr = 0xb34a0
+
+[header.args]
