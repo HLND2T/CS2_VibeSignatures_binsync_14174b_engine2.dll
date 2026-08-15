@@ -3,3 +3,9 @@ addr = 0x23bf60
 func_addr = 0x23bf60
 comment = "Microsoft VisualC v7/14 64bit runtime"
 decompiled = false
+
+[0x33293]
+addr = 0x33293
+func_addr = 0x32cc0
+comment = "Trap to Debugger"
+decompiled = false
