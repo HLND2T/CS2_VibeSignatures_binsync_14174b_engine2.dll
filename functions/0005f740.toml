@@ -1,2 +1,9 @@
 addr = 0x5f740
 size = 0x7e8
+name = "CNetworkGameClient_SetSignonState"
+
+[header]
+name = "CNetworkGameClient_SetSignonState"
+addr = 0x5f740
+
+[header.args]
