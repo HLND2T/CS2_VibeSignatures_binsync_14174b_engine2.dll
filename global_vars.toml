@@ -64,3 +64,8 @@ size = 0x8
 addr = 0x687b10
 name = "g_pVStringTokenSystem"
 size = 0x1
+
+[0x687b18]
+addr = 0x687b18
+name = "g_pProcessUtils"
+size = 0x1
