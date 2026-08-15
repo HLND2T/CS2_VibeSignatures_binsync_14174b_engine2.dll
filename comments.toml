@@ -465,3 +465,9 @@ addr = 0x2108a1
 func_addr = 0x210080
 comment = "lpStartupInfo"
 decompiled = false
+
+[0x2108a6]
+addr = 0x2108a6
+func_addr = 0x210080
+comment = "lpCurrentDirectory"
+decompiled = false
