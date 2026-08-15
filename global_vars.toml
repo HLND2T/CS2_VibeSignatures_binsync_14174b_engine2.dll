@@ -374,3 +374,8 @@ size = 0x8
 addr = 0x687d08
 name = "g_pNetworkMessages"
 size = 0x8
+
+[0x687d10]
+addr = 0x687d10
+name = "g_pFlattenedSerializers"
+size = 0x8
