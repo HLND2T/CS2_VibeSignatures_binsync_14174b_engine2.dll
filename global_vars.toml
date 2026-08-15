@@ -229,3 +229,8 @@ size = 0x8
 addr = 0x687c18
 name = "g_pVP4"
 size = 0x8
+
+[0x687c20]
+addr = 0x687c20
+name = "g_pMatchFramework"
+size = 0x8
