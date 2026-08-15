@@ -554,3 +554,8 @@ size = 0x1
 addr = 0x687e30
 name = "g_pRenderService"
 size = 0x8
+
+[0x687e38]
+addr = 0x687e38
+name = "g_pStatsService"
+size = 0x8
