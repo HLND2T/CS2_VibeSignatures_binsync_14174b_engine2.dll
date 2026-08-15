@@ -1,0 +1,10 @@
+last_change = 2026-08-14T15:51:35.099921Z
+addr = 0x21d7c0
+size = 0x610
+name = "ShowFrameTimeReport"
+
+[header]
+name = "ShowFrameTimeReport"
+addr = 0x21d7c0
+
+[header.args]
