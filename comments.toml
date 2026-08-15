@@ -495,3 +495,9 @@ addr = 0x2108e3
 func_addr = 0x210080
 comment = "hObject"
 decompiled = false
+
+[0x2108ee]
+addr = 0x2108ee
+func_addr = 0x210080
+comment = "hObject"
+decompiled = false
