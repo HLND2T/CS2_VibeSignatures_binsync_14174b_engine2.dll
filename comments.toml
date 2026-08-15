@@ -363,3 +363,9 @@ addr = 0x2107c8
 func_addr = 0x210080
 comment = "dwProcessId"
 decompiled = false
+
+[0x2107cf]
+addr = 0x2107cf
+func_addr = 0x210080
+comment = "bInheritHandle"
+decompiled = false
