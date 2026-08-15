@@ -1,0 +1,10 @@
+last_change = 2026-08-14T15:51:35.099595Z
+addr = 0xa5a20
+size = 0x19c
+name = "CNetworkGameServerBase_LoadSpawnGroup"
+
+[header]
+name = "CNetworkGameServerBase_LoadSpawnGroup"
+addr = 0xa5a20
+
+[header.args]
