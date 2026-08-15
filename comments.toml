@@ -129,3 +129,9 @@ addr = 0x9fbaa
 func_addr = 0x9fb70
 comment = "Trap to Debugger"
 decompiled = false
+
+[0x9fbb8]
+addr = 0x9fbb8
+func_addr = 0x9fb70
+comment = "Trap to Debugger"
+decompiled = false
