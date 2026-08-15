@@ -1,0 +1,10 @@
+last_change = 2026-08-14T15:51:35.099895Z
+addr = 0x20eaf0
+size = 0xc0
+name = "CEngineServiceMgr_UnregisterEngineService"
+
+[header]
+name = "CEngineServiceMgr_UnregisterEngineService"
+addr = 0x20eaf0
+
+[header.args]
