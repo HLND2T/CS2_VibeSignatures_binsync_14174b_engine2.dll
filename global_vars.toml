@@ -509,3 +509,8 @@ size = 0x8
 addr = 0x687de8
 name = "g_pEngineServiceMgr"
 size = 0x8
+
+[0x687df0]
+addr = 0x687df0
+name = "g_pHostStateMgr"
+size = 0x8
