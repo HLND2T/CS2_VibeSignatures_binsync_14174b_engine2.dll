@@ -303,3 +303,9 @@ addr = 0x202f7f
 func_addr = 0x202f40
 comment = "Trap to Debugger"
 decompiled = false
+
+[0x20ea45]
+addr = 0x20ea45
+func_addr = 0x20ea00
+comment = "Trap to Debugger"
+decompiled = false
