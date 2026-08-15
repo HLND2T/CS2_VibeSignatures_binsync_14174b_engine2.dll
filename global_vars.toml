@@ -174,3 +174,8 @@ size = 0x8
 addr = 0x687bc0
 name = "g_pAssetSystemTest"
 size = 0x1
+
+[0x687bc8]
+addr = 0x687bc8
+name = "g_pPropertyEditorSystem"
+size = 0x1
