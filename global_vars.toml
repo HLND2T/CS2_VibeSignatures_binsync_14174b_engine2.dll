@@ -114,3 +114,8 @@ size = 0x8
 addr = 0x687b60
 name = "g_pModelProcessingServices"
 size = 0x1
+
+[0x687b68]
+addr = 0x687b68
+name = "g_pLocalize"
+size = 0x8
