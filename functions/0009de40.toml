@@ -1,0 +1,10 @@
+last_change = 2026-08-14T15:51:35.099544Z
+addr = 0x9de40
+size = 0x1c
+name = "CNetworkGameServer_PreWorldUpdate"
+
+[header]
+name = "CNetworkGameServer_PreWorldUpdate"
+addr = 0x9de40
+
+[header.args]
