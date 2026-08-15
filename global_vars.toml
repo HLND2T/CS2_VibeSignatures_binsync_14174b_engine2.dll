@@ -204,3 +204,8 @@ size = 0x8
 addr = 0x687bf0
 name = "g_pResourceManifestRegistry"
 size = 0x8
+
+[0x687bf8]
+addr = 0x687bf8
+name = "g_pMaterialSystem2"
+size = 0x8
