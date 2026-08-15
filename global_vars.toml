@@ -404,3 +404,8 @@ size = 0x8
 addr = 0x687d38
 name = "g_pHammerMapLoader"
 size = 0x1
+
+[0x687d40]
+addr = 0x687d40
+name = "g_pVisBuilder"
+size = 0x1
