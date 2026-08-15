@@ -1,0 +1,10 @@
+last_change = 2026-08-14T15:51:35.099592Z
+addr = 0xa4470
+size = 0x36b
+name = "CNetworkGameServerBase_SendPeerList"
+
+[header]
+name = "CNetworkGameServerBase_SendPeerList"
+addr = 0xa4470
+
+[header.args]
