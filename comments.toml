@@ -453,3 +453,9 @@ addr = 0x210895
 func_addr = 0x210080
 comment = "lpProcessAttributes"
 decompiled = false
+
+[0x210898]
+addr = 0x210898
+func_addr = 0x210080
+comment = "lpProcessInformation"
+decompiled = false
