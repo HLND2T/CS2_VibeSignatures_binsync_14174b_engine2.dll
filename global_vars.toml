@@ -314,3 +314,8 @@ size = 0x1
 addr = 0x687ca8
 name = "g_pMeshSystem"
 size = 0x1
+
+[0x687cb0]
+addr = 0x687cb0
+name = "g_pMeshUtils"
+size = 0x1
