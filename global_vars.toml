@@ -574,3 +574,8 @@ size = 0x8
 addr = 0x687e50
 name = "g_pMapListService"
 size = 0x8
+
+[0x687e58]
+addr = 0x687e58
+name = "g_pGameUIService"
+size = 0x8
