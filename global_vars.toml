@@ -544,3 +544,8 @@ size = 0x8
 addr = 0x687e20
 name = "g_pServerToolsInfo"
 size = 0x1
+
+[0x687e28]
+addr = 0x687e28
+name = "g_pClientToolsInfo"
+size = 0x1
