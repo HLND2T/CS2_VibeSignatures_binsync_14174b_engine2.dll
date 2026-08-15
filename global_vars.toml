@@ -244,3 +244,8 @@ size = 0x8
 addr = 0x687c30
 name = "g_pSource2V8System"
 size = 0x8
+
+[0x687c38]
+addr = 0x687c38
+name = "g_pPanoramaUIEngine"
+size = 0x8
