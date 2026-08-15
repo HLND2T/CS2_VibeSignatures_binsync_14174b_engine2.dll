@@ -489,3 +489,8 @@ size = 0x8
 addr = 0x687dc8
 name = "g_pSource2EngineToServer"
 size = 0x8
+
+[0x687dd0]
+addr = 0x687dd0
+name = "g_pSource2EngineToServerStringTable"
+size = 0x1
