@@ -345,3 +345,9 @@ addr = 0x21075c
 func_addr = 0x210080
 comment = "dwFlags"
 decompiled = false
+
+[0x210786]
+addr = 0x210786
+func_addr = 0x210080
+comment = "lppe"
+decompiled = false
