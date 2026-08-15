@@ -364,3 +364,8 @@ size = 0x1
 addr = 0x687cf8
 name = "g_pWorldRendererMgr"
 size = 0x8
+
+[0x687d00]
+addr = 0x687d00
+name = "g_pNetworkSystem"
+size = 0x8
