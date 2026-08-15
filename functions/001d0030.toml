@@ -1,2 +1,9 @@
 addr = 0x1d0030
 size = 0xd84
+name = "CNetworkClientService_RegisterEventMapInternal"
+
+[header]
+name = "CNetworkClientService_RegisterEventMapInternal"
+addr = 0x1d0030
+
+[header.args]
