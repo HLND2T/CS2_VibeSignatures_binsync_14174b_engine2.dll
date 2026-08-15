@@ -384,3 +384,8 @@ size = 0x8
 addr = 0x687d18
 name = "g_pSerializedEntities"
 size = 0x8
+
+[0x687d20]
+addr = 0x687d20
+name = "g_pDemoUpconverter"
+size = 0x8
