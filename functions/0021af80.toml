@@ -1,2 +1,9 @@
 addr = 0x21af80
 size = 0x283
+name = "CLoopTypeBase_GenerateServiceDependencies"
+
+[header]
+name = "CLoopTypeBase_GenerateServiceDependencies"
+addr = 0x21af80
+
+[header.args]
