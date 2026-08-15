@@ -1,2 +1,9 @@
 addr = 0x210080
 size = 0x1308
+name = "CEngineServiceMgr__MainLoop"
+
+[header]
+name = "CEngineServiceMgr__MainLoop"
+addr = 0x210080
+
+[header.args]
