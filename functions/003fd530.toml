@@ -1,2 +1,9 @@
 addr = 0x3fd530
 size = 0x1bc
+name = "ConnectInterfaces"
+
+[header]
+name = "ConnectInterfaces"
+addr = 0x3fd530
+
+[header.args]
