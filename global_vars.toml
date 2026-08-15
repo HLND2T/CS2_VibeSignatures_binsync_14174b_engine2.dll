@@ -514,3 +514,8 @@ size = 0x8
 addr = 0x687df0
 name = "g_pHostStateMgr"
 size = 0x8
+
+[0x687df8]
+addr = 0x687df8
+name = "g_pNetworkService"
+size = 0x8
