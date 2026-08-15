@@ -1,2 +1,9 @@
 addr = 0x20ea00
 size = 0xec
+name = "CEngineServiceMgr_RegisterEngineService"
+
+[header]
+name = "CEngineServiceMgr_RegisterEngineService"
+addr = 0x20ea00
+
+[header.args]
