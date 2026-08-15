@@ -489,3 +489,9 @@ addr = 0x2108b4
 func_addr = 0x210080
 comment = "bInheritHandles"
 decompiled = false
+
+[0x2108e3]
+addr = 0x2108e3
+func_addr = 0x210080
+comment = "hObject"
+decompiled = false
