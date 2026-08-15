@@ -469,3 +469,8 @@ size = 0x8
 addr = 0x687da8
 name = "g_pSource2GameEntities"
 size = 0x8
+
+[0x687db0]
+addr = 0x687db0
+name = "g_pSource2Host"
+size = 0x8
