@@ -569,3 +569,8 @@ size = 0x1
 addr = 0x687e48
 name = "g_pInputService"
 size = 0x8
+
+[0x687e50]
+addr = 0x687e50
+name = "g_pMapListService"
+size = 0x8
