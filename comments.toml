@@ -411,3 +411,9 @@ addr = 0x210809
 func_addr = 0x210080
 comment = "lppe"
 decompiled = false
+
+[0x210810]
+addr = 0x210810
+func_addr = 0x210080
+comment = "hSnapshot"
+decompiled = false
