@@ -63,3 +63,9 @@ addr = 0x5f7de
 func_addr = 0x5f740
 comment = "switch jump"
 decompiled = false
+
+[0x5f7e0]
+addr = 0x5f7e0
+func_addr = 0x5f740
+comment = "jumptable 00000001800607DE case 1"
+decompiled = false
