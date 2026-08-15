@@ -439,3 +439,8 @@ size = 0x1
 addr = 0x687d70
 name = "g_pNavGameTest"
 size = 0x1
+
+[0x687d78]
+addr = 0x687d78
+name = "g_pRAD3"
+size = 0x1
