@@ -504,3 +504,8 @@ size = 0x1
 addr = 0x687de0
 name = "g_pSource2ClientPrediction"
 size = 0x8
+
+[0x687de8]
+addr = 0x687de8
+name = "g_pEngineServiceMgr"
+size = 0x8
