@@ -1,2 +1,9 @@
 addr = 0x21b210
 size = 0x29c
+name = "CLoopTypeBase_GenerateSecondaryDependencies"
+
+[header]
+name = "CLoopTypeBase_GenerateSecondaryDependencies"
+addr = 0x21b210
+
+[header.args]
