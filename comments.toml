@@ -111,3 +111,9 @@ addr = 0x5fc77
 func_addr = 0x5f740
 comment = "jumptable 00000001800607DE default case"
 decompiled = false
+
+[0x5ff0c]
+addr = 0x5ff0c
+func_addr = 0x5f740
+comment = "jump table for switch statement"
+decompiled = false
