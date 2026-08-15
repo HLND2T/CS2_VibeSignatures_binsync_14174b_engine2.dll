@@ -354,3 +354,8 @@ size = 0x8
 addr = 0x687ce8
 name = "g_pAVI"
 size = 0x8
+
+[0x687cf0]
+addr = 0x687cf0
+name = "g_pBIK"
+size = 0x1
