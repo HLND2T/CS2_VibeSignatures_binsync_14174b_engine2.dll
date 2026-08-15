@@ -79,3 +79,8 @@ size = 0x1
 addr = 0x687b28
 name = "g_pToolSceneNodeFactory"
 size = 0x1
+
+[0x687b30]
+addr = 0x687b30
+name = "g_pEconItemToolModel"
+size = 0x1
