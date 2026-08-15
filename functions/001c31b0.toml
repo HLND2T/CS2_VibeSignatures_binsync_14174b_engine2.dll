@@ -1,0 +1,10 @@
+last_change = 2026-08-14T15:51:35.099765Z
+addr = 0x1c31b0
+size = 0x502
+name = "CInputService_ProcessCommandBuffer"
+
+[header]
+name = "CInputService_ProcessCommandBuffer"
+addr = 0x1c31b0
+
+[header.args]
