@@ -333,3 +333,9 @@ addr = 0x20f0ac
 func_addr = 0x20f050
 comment = "Trap to Debugger"
 decompiled = false
+
+[0x21075a]
+addr = 0x21075a
+func_addr = 0x210080
+comment = "th32ProcessID"
+decompiled = false
