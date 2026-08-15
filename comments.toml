@@ -93,3 +93,9 @@ addr = 0x5f9f3
 func_addr = 0x5f740
 comment = "jumptable 00000001800607DE case 5"
 decompiled = false
+
+[0x5fa1e]
+addr = 0x5fa1e
+func_addr = 0x5f740
+comment = "jumptable 00000001800607DE case 6"
+decompiled = false
