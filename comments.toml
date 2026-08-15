@@ -381,3 +381,9 @@ addr = 0x2107e4
 func_addr = 0x210080
 comment = "nSize"
 decompiled = false
+
+[0x2107ea]
+addr = 0x2107ea
+func_addr = 0x210080
+comment = "lpFilename"
+decompiled = false
