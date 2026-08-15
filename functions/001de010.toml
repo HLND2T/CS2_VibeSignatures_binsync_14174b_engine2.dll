@@ -1,0 +1,10 @@
+last_change = 2026-08-14T15:51:35.099860Z
+addr = 0x1de010
+size = 0x17
+name = "CNetworkServerService_OnServerEndSimulate"
+
+[header]
+name = "CNetworkServerService_OnServerEndSimulate"
+addr = 0x1de010
+
+[header.args]
