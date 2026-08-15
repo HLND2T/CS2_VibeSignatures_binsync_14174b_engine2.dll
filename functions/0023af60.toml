@@ -1,0 +1,10 @@
+last_change = 2026-08-14T15:51:35.099946Z
+addr = 0x23af60
+size = 0x14b
+name = "CRenderingWorldSession_FindOrCreateWorldSession"
+
+[header]
+name = "CRenderingWorldSession_FindOrCreateWorldSession"
+addr = 0x23af60
+
+[header.args]
