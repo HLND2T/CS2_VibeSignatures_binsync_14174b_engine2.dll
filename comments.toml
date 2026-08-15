@@ -51,3 +51,9 @@ addr = 0x5cd26
 func_addr = 0x5ca30
 comment = "Trap to Debugger"
 decompiled = false
+
+[0x5f7c0]
+addr = 0x5f7c0
+func_addr = 0x5f740
+comment = "switch 7 cases"
+decompiled = false
