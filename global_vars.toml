@@ -449,3 +449,8 @@ size = 0x1
 addr = 0x687d80
 name = "g_pSource2Client"
 size = 0x8
+
+[0x687d88]
+addr = 0x687d88
+name = "g_pSource2ClientUI"
+size = 0x8
