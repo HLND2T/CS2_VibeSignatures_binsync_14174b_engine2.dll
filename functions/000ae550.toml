@@ -1,2 +1,9 @@
 addr = 0xae550
 size = 0x3e5
+name = "CNetworkGameServerBase_BroadcastMessage"
+
+[header]
+name = "CNetworkGameServerBase_BroadcastMessage"
+addr = 0xae550
+
+[header.args]
