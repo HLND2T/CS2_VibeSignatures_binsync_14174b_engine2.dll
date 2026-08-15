@@ -1,0 +1,10 @@
+last_change = 2026-08-14T15:51:35.099842Z
+addr = 0x1d5190
+size = 0x95
+name = "CNetworkClientService_ReceivedServerInfo"
+
+[header]
+name = "CNetworkClientService_ReceivedServerInfo"
+addr = 0x1d5190
+
+[header.args]
