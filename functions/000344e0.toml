@@ -1,0 +1,10 @@
+last_change = 2026-08-14T15:51:35.099444Z
+addr = 0x344e0
+size = 0x12e
+name = "CDemoPlayer_Pause"
+
+[header]
+name = "CDemoPlayer_Pause"
+addr = 0x344e0
+
+[header.args]
