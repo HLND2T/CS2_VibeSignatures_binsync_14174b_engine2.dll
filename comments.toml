@@ -225,3 +225,9 @@ addr = 0x1d0d97
 func_addr = 0x1d0030
 comment = "void (__cdecl *)()"
 decompiled = false
+
+[0x1dce28]
+addr = 0x1dce28
+func_addr = 0x1dc530
+comment = "void (__cdecl *)()"
+decompiled = false
