@@ -479,3 +479,8 @@ size = 0x8
 addr = 0x687db8
 name = "g_pSource2ModTools"
 size = 0x1
+
+[0x687dc0]
+addr = 0x687dc0
+name = "g_pSource2EngineToClient"
+size = 0x8
