@@ -304,3 +304,8 @@ size = 0x1
 addr = 0x687c98
 name = "g_pSoundOpSystem"
 size = 0x8
+
+[0x687ca0]
+addr = 0x687ca0
+name = "g_pSteamAudio"
+size = 0x1
