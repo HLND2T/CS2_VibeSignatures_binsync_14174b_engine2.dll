@@ -1,0 +1,10 @@
+last_change = 2026-08-14T15:51:35.099794Z
+addr = 0x1d2860
+size = 0x27
+name = "CNetworkClientService_OnServerPostSimulate"
+
+[header]
+name = "CNetworkClientService_OnServerPostSimulate"
+addr = 0x1d2860
+
+[header.args]
