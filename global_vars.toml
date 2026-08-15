@@ -104,3 +104,8 @@ size = 0x8
 addr = 0x687b50
 name = "g_pAnimationSystemUtils"
 size = 0x1
+
+[0x687b58]
+addr = 0x687b58
+name = "g_pTestScriptMgr"
+size = 0x8
