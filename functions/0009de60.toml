@@ -1,0 +1,10 @@
+last_change = 2026-08-14T15:51:35.099546Z
+addr = 0x9de60
+size = 0x132
+name = "CNetworkGameServer_DirectUpdate"
+
+[header]
+name = "CNetworkGameServer_DirectUpdate"
+addr = 0x9de60
+
+[header.args]
