@@ -1,2 +1,9 @@
 addr = 0x20ebb0
 size = 0x349
+name = "CEngineServiceMgr_RegisterLoopMode"
+
+[header]
+name = "CEngineServiceMgr_RegisterLoopMode"
+addr = 0x20ebb0
+
+[header.args]
