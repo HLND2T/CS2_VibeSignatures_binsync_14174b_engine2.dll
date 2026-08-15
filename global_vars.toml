@@ -279,3 +279,8 @@ size = 0x8
 addr = 0x687c70
 name = "g_pRenderDeviceSetup"
 size = 0x1
+
+[0x687c78]
+addr = 0x687c78
+name = "g_pRenderHardwareConfig"
+size = 0x8
