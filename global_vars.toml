@@ -109,3 +109,8 @@ size = 0x1
 addr = 0x687b58
 name = "g_pTestScriptMgr"
 size = 0x8
+
+[0x687b60]
+addr = 0x687b60
+name = "g_pModelProcessingServices"
+size = 0x1
