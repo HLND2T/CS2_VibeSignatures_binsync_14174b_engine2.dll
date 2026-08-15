@@ -1,0 +1,10 @@
+last_change = 2026-08-14T15:51:35.099519Z
+addr = 0x88a10
+size = 0x1c9
+name = "CNetworkGameClientBase_ServerCmd"
+
+[header]
+name = "CNetworkGameClientBase_ServerCmd"
+addr = 0x88a10
+
+[header.args]
