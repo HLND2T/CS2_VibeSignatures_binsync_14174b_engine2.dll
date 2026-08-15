@@ -1,0 +1,10 @@
+last_change = 2026-08-14T15:51:35.099737Z
+addr = 0x1bf120
+size = 0x249
+name = "CInputService_HandleAnalogValueChange"
+
+[header]
+name = "CInputService_HandleAnalogValueChange"
+addr = 0x1bf120
+
+[header.args]
