@@ -609,3 +609,8 @@ size = 0x8
 addr = 0x687e98
 name = "g_pGameResourceServiceServer"
 size = 0x8
+
+[0x910864]
+addr = 0x910864
+name = "g_nSteamAppId"
+size = 0x4
