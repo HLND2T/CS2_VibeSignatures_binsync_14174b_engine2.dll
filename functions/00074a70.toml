@@ -1,0 +1,10 @@
+last_change = 2026-08-14T15:51:35.099505Z
+addr = 0x74a70
+size = 0x7
+name = "CEngineClient_GetStatsAppID"
+
+[header]
+name = "CEngineClient_GetStatsAppID"
+addr = 0x74a70
+
+[header.args]
