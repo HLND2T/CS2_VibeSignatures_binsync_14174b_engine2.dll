@@ -94,3 +94,8 @@ size = 0x1
 addr = 0x687b40
 name = "g_pSchemaTestExternalOne"
 size = 0x1
+
+[0x687b48]
+addr = 0x687b48
+name = "g_pAnimationSystem"
+size = 0x8
