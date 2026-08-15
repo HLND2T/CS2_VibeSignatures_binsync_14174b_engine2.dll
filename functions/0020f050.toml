@@ -1,2 +1,9 @@
 addr = 0x20f050
 size = 0x158
+name = "CEngineServiceMgr_SwitchToLoop"
+
+[header]
+name = "CEngineServiceMgr_SwitchToLoop"
+addr = 0x20f050
+
+[header.args]
