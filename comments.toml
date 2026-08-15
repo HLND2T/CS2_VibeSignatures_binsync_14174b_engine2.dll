@@ -357,3 +357,9 @@ addr = 0x210797
 func_addr = 0x210080
 comment = "hSnapshot"
 decompiled = false
+
+[0x2107c8]
+addr = 0x2107c8
+func_addr = 0x210080
+comment = "dwProcessId"
+decompiled = false
