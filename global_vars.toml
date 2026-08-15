@@ -89,3 +89,8 @@ size = 0x1
 addr = 0x687b38
 name = "g_pSchemaTestExternalTwo"
 size = 0x1
+
+[0x687b40]
+addr = 0x687b40
+name = "g_pSchemaTestExternalOne"
+size = 0x1
