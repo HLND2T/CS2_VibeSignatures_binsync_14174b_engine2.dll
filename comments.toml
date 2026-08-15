@@ -369,3 +369,9 @@ addr = 0x2107cf
 func_addr = 0x210080
 comment = "bInheritHandle"
 decompiled = false
+
+[0x2107d1]
+addr = 0x2107d1
+func_addr = 0x210080
+comment = "dwDesiredAccess"
+decompiled = false
