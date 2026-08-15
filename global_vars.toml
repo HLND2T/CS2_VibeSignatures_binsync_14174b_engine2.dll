@@ -564,3 +564,8 @@ size = 0x8
 addr = 0x687e40
 name = "g_pVProfService"
 size = 0x1
+
+[0x687e48]
+addr = 0x687e48
+name = "g_pInputService"
+size = 0x8
