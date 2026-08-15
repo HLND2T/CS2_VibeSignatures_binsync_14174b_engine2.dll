@@ -144,3 +144,8 @@ size = 0x1
 addr = 0x687b90
 name = "g_pAssetPreviewSystem"
 size = 0x1
+
+[0x687b98]
+addr = 0x687b98
+name = "g_pAssetBrowserSystem"
+size = 0x1
