@@ -1,2 +1,9 @@
 addr = 0x460c0
 size = 0x1a0
+name = "CNetworkGameClient_OnPreserveEntity"
+
+[header]
+name = "CNetworkGameClient_OnPreserveEntity"
+addr = 0x460c0
+
+[header.args]
