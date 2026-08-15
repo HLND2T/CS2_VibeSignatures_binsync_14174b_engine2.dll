@@ -164,3 +164,8 @@ size = 0x8
 addr = 0x687bb0
 name = "g_pAsyncFileSystem"
 size = 0x8
+
+[0x687bb8]
+addr = 0x687bb8
+name = "g_pAssetSystem"
+size = 0x8
