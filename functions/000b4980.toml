@@ -1,0 +1,10 @@
+last_change = 2026-08-14T15:51:35.099657Z
+addr = 0xb4980
+size = 0x27
+name = "CNetworkGameServerBase_GetClientConnectionType"
+
+[header]
+name = "CNetworkGameServerBase_GetClientConnectionType"
+addr = 0xb4980
+
+[header.args]
