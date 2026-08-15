@@ -589,3 +589,8 @@ size = 0x8
 addr = 0x687e68
 name = "g_pBenchmarkService"
 size = 0x8
+
+[0x687e70]
+addr = 0x687e70
+name = "g_pKeyValueCache"
+size = 0x1
