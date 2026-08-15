@@ -1,0 +1,10 @@
+last_change = 2026-08-14T15:51:35.099789Z
+addr = 0x1d2220
+size = 0x299
+name = "CNetworkClientService_OnSimpleLoopFrameUpdate"
+
+[header]
+name = "CNetworkClientService_OnSimpleLoopFrameUpdate"
+addr = 0x1d2220
+
+[header.args]
