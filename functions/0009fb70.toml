@@ -1,2 +1,9 @@
 addr = 0x9fb70
 size = 0x4f
+name = "CEngineServer_PrecacheGeneric"
+
+[header]
+name = "CEngineServer_PrecacheGeneric"
+addr = 0x9fb70
+
+[header.args]
