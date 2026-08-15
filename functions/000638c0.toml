@@ -1,2 +1,9 @@
 addr = 0x638c0
 size = 0x7a6
+name = "CNetworkGameClient_SendMovePacket"
+
+[header]
+name = "CNetworkGameClient_SendMovePacket"
+addr = 0x638c0
+
+[header.args]
