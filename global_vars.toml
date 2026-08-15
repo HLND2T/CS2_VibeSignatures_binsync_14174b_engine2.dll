@@ -289,3 +289,8 @@ size = 0x8
 addr = 0x687c80
 name = "g_pRenderUtils"
 size = 0x1
+
+[0x687c88]
+addr = 0x687c88
+name = "g_pSoundSystem"
+size = 0x8
