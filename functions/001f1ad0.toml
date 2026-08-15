@@ -1,2 +1,9 @@
 addr = 0x1f1ad0
 size = 0x34d
+name = "CSplitScreenService_LoadUserConfiguration"
+
+[header]
+name = "CSplitScreenService_LoadUserConfiguration"
+addr = 0x1f1ad0
+
+[header.args]
